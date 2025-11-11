@@ -55,3 +55,6 @@ java client.Client
 - Add user authentication
 - Implement file sharing between clients
 - Add encryption for secure communication
+
+# Link to Repo
+https://github.com/hs9899/java-chat-application
